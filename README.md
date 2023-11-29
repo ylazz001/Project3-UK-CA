@@ -25,6 +25,9 @@ Programming Environment:
 
 This project was created using Jupyter Notebook and the latest Python/PySpark release.
 
+## Sample Output
+![Alt text](image link)
+
 ## Authors
 
 Yuri Lazzeretti
