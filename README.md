@@ -28,6 +28,12 @@ This project was created using Jupyter Notebook and the latest Python/PySpark re
 ## Sample Output
 ![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot1.png)
 
+![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot2.png)
+
+![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot3.png)
+
+![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot4.png)
+
 ## Authors
 
 Yuri Lazzeretti
