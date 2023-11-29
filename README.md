@@ -26,7 +26,7 @@ Programming Environment:
 This project was created using Jupyter Notebook and the latest Python/PySpark release.
 
 ## Sample Output
-![Alt text](image link)
+![Alt text](https://github.com/ylazz001/Project3-UK-CA/blob/main/Plot1.png)
 
 ## Authors
 
